@@ -1,0 +1,3 @@
+google-genai
+microsoft-bing-websearch
+microsoft-bing-newssearch
